@@ -1,8 +1,8 @@
 # Intelligent Actuaries
 
-**An institutional AI lab for actuarial science.**
+**An institutional SI lab for actuarial science.**
 
-We research and build AI systems for the actuarial function: agents, models and methodology, evaluated against the regulations our partners file under. By introduction. Under mandate.
+We research and build SI systems for the actuarial function: agents, models and methodology, evaluated against the regulations our partners file under. By introduction. Under mandate.
 
 This GitHub organisation is the public face of the lab's research output: preprints, reproducible simulators, methodology notes. The institutional workbench itself is private.
 
@@ -61,7 +61,7 @@ We accept a small number of new counterparties each year. Fees quoted privately,
 | <img src="https://cdn-uploads.huggingface.co/production/uploads/640aeffcbd52546b3a0f4319/nj587b8MlmyLh3HO0YzRq.png" width="16" height="16" alt="LinkedIn" /> | **LinkedIn** | [linkedin.com/company/intelligentactuaries](https://www.linkedin.com/company/intelligentactuaries/) |
 | <img src="https://cdn.simpleicons.org/x" width="16" height="16" alt="X" /> | **X** | [@aiactuaries](https://x.com/aiactuaries) |
 | <img src="https://cdn.simpleicons.org/huggingface" width="16" height="16" alt="Hugging Face" /> | **Hugging Face** | [huggingface.co/intelligentactuaries](https://huggingface.co/intelligentactuaries) |
-| <img src="https://cdn.simpleicons.org/youtube" width="16" height="16" alt="YouTube" /> | **YouTube** | [@ActuarialLab](https://youtube.com/@ActuarialLab) |
+| <img src="https://cdn.simpleicons.org/youtube" width="16" height="16" alt="YouTube" /> | **YouTube** | [@IntelligentActuaries](https://www.youtube.com/@IntelligentActuaries) |
 
 ---
 
